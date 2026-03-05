@@ -4,7 +4,7 @@ An interactive 2D alien selection interface inspired by the Ben 10 cartoon serie
 
 ## Demo
 
-![Heatblast Transformation](gif/heatblast.gif)
+![Heatblast Transformation](Demo/Demo.gif)
 
 ## Features
 
